@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="aiXcoder">
+   <description name="aiXcoder" url="https://github.com/aixcoder-plugin/eclipse-update-site/raw/master/">
+      aiXcoder update site
    </description>
-   <feature url="features/aiXcoder.aiXcoder_1.0.0.201911151415.jar" id="aiXcoder.aiXcoder" version="1.0.0.201911151415"/>
+   <feature url="features/aiXcoder.aiXcoder_1.0.0.jar" id="aiXcoder.aiXcoder" version="1.0.0" os="linux,macosx,win32" ws="cocoa,gtk,win32,wpf" nl="en_US,zh_CN" arch="x86_64"/>
 </site>
