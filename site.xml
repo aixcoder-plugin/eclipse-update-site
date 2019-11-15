@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description name="aiXcoder">
+   </description>
+   <feature url="features/aiXcoder.aiXcoder_1.0.0.201911151415.jar" id="aiXcoder.aiXcoder" version="1.0.0.201911151415"/>
+</site>
