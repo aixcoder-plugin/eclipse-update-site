@@ -3,5 +3,8 @@
    <description name="aiXcoder" url="https://github.com/aixcoder-plugin/eclipse-update-site/raw/master/">
       aiXcoder update site
    </description>
-   <feature url="features/aiXcoder.aiXcoder_1.0.0.jar" id="aiXcoder.aiXcoder" version="1.0.0" os="linux,macosx,win32" ws="cocoa,gtk,win32,wpf" nl="en_US,zh_CN" arch="x86_64"/>
+   <feature url="features/aiXcoder.aiXcoder_1.0.0.jar" id="aiXcoder.aiXcoder" version="1.0.0" os="linux,macosx,win32" ws="cocoa,gtk,win32,wpf" nl="en_US,zh_CN" arch="x86_64">
+      <category name="aixcoder.codecompletion"/>
+   </feature>
+   <category-def name="aixcoder.codecompletion" label="CodeCompletion"/>
 </site>
