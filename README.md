@@ -6,3 +6,5 @@ The plugin is available on Eclipse Marketplace: https://marketplace.eclipse.org/
 Or you can add this to your update site list: https://github.com/aixcoder-plugin/eclipse-update-site/raw/master/
 
 Or you can download the desired version from `plugins` folder and put the jar into `<Eclipse installation folder>/dropins/`.
+
+In case you have trouble connecting to Github, there is a mirror site at https://gitee.com/felixhao/eclipse-update-site/raw/master/
