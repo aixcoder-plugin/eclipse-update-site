@@ -3,7 +3,7 @@
    <description name="aiXcoder" url="https://image.aixcoder.com/eclipse-update-site">
       aiXcoder update site
    </description>
-   <feature url="features/aiXcoder.aiXcoder_1.2.4.jar" id="aiXcoder.aiXcoder" version="1.2.4" os="linux,macosx,win32" ws="cocoa,gtk,win32,wpf" nl="en_US,zh_CN" arch="x86_64">
+   <feature url="features/aiXcoder.aiXcoder_1.3.1.jar" id="aiXcoder.aiXcoder" version="1.3.1" os="linux,macosx,win32" ws="cocoa,gtk,win32,wpf" nl="en_US,zh_CN" arch="x86_64">
       <category name="aixcoder.codecompletion"/>
    </feature>
    <category-def name="aixcoder.codecompletion" label="CodeCompletion"/>
